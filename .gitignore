@@ -1,0 +1,4 @@
+data/globalterrorism_1970_2020.xlsx
+__pycache__/
+*.pyc
+data/globalterrorism_2021.xlsx
